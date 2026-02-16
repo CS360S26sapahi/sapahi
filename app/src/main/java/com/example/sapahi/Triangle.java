@@ -1,4 +1,4 @@
 package com.example.sapahi;
 
-public class Triangle {
+public class Triangle extends Shape{
 }
